@@ -327,5 +327,1004 @@
   "summary": "",
   "categoryHints": [],
   "flags": []
+ },
+ {
+  "id": "certpl:a45188f78afe4806",
+  "source": "certpl",
+  "sourceName": "CERT Polska",
+  "official": true,
+  "published": "2026-11-20",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Podatność w oprogramowaniu Analogic Poste.io",
+  "url": "https://cert.pl/posts/2026/11/CVE-2026-127027/",
+  "summary": "W oprogramowaniu Analogic Poste.io wykryto podatność umożliwiającą wstrzyknięcie komend (CVE-2026-127027).",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "certpl:557eda529ae9c7ce",
+  "source": "certpl",
+  "sourceName": "CERT Polska",
+  "official": true,
+  "published": "2026-11-19",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Podatności w oprogramowaniu MRemoteNG",
+  "url": "https://cert.pl/posts/2026/11/CVE-2026-87867/",
+  "summary": "W oprogramowaniu MRemoteNG wykryto 2 podatności różnego typu (CVE-2026-87867 oraz CVE-2026-87868)",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "certpl:fa93625522e7e7d6",
+  "source": "certpl",
+  "sourceName": "CERT Polska",
+  "official": true,
+  "published": "2026-11-18",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Podatności w oprogramowaniu LMS",
+  "url": "https://cert.pl/posts/2026/11/CVE-2026-127142/",
+  "summary": "W oprogramowaniu LMS wykryto 3 podatności różnego typu (CVE-2026-127142, CVE-2026-127143 oraz CVE-2026-129961)",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "certpl:f605ae526d1f0c0e",
+  "source": "certpl",
+  "sourceName": "CERT Polska",
+  "official": true,
+  "published": "2026-11-18",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Podatności w oprogramowaniu CAST Imaging",
+  "url": "https://cert.pl/posts/2026/11/CVE-2026-109857/",
+  "summary": "W oprogramowaniu CAST Software Imaging wykryto 8 podatności różnego typu (od CVE-2026-109857 do CVE-2026-109864)",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "certpl:3282cea606906a86",
+  "source": "certpl",
+  "sourceName": "CERT Polska",
+  "official": true,
+  "published": "2026-11-18",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Podatność w oprogramowaniu Axence nVision",
+  "url": "https://cert.pl/posts/2026/11/CVE-2026-87850/",
+  "summary": "W oprogramowaniu Axence nVision wykryto podatność polegającą na niewłaściwym przesyłaniu tokenów sesyjnych (CVE-2026-87850).",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "ukmod:946f6169160b2330",
+  "source": "ukmod",
+  "sourceName": "Britannian puolustusministeriö",
+  "official": true,
+  "published": "2026-11-25",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "£142 million Navy investment strengthens UK security and British jobs",
+  "url": "https://www.gov.uk/government/news/142-million-navy-investment-strengthens-uk-security-and-british-jobs",
+  "summary": "The UK’s ability to protect vital sea routes is set to be strengthened through a £142 million investment in unmanned underwater vehicles.",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "ukmod:6e9c487d4eb8ff01",
+  "source": "ukmod",
+  "sourceName": "Britannian puolustusministeriö",
+  "official": true,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "First UK Defence Secretary to visit Kharkiv as UK ramps up support for Ukraine",
+  "url": "https://www.gov.uk/government/news/first-uk-defence-secretary-to-visit-kharkiv-as-uk-ramps-up-support-for-ukraine",
+  "summary": "Wes Streeting has become the first UK Defence Secretary to visit Kharkiv – 20km from the frontline in Eastern Ukraine – meeting troops at the forefront of Ukraine’s fight for freedom and reaffirming the UK’s unwavering commi…",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "ukmod:57e8b8863dfa930c",
+  "source": "ukmod",
+  "sourceName": "Britannian puolustusministeriö",
+  "official": true,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "CEOs from sensitive sectors receive briefings on Russia threats",
+  "url": "https://www.gov.uk/government/news/ceos-from-sensitive-sectors-receive-briefings-on-russia-threats",
+  "summary": "Closed-door security briefings by Ministers and UK Intelligence representatives given to critical national infrastructure (CNI) and defence sector CEOs",
+  "categoryHints": [],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "ukmod:563096319d706579",
+  "source": "ukmod",
+  "sourceName": "Britannian puolustusministeriö",
+  "official": true,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Nuclear Regulatory Review: joint ministerial letter to industry",
+  "url": "https://www.gov.uk/government/publications/nuclear-regulatory-review-joint-ministerial-letter-to-industry",
+  "summary": "Joint DESNZ, MOD and HM Treasury letter to nuclear CEOs and dutyholders on progress and next steps for the Nuclear Regulatory Review.",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "ukmod:42cce8fed335770f",
+  "source": "ukmod",
+  "sourceName": "Britannian puolustusministeriö",
+  "official": true,
+  "published": "2026-11-23",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "UK and Saudi Arabia deepen defence-industrial co-operation at Lancaster House",
+  "url": "https://www.gov.uk/government/news/uk-and-saudi-arabia-deepen-defence-industrial-co-operation-at-lancaster-house",
+  "summary": "UK and Saudi Arabia strengthen defence-industrial ties inLancaster House talks.",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "ukmod:27db365d0386ee71",
+  "source": "ukmod",
+  "sourceName": "Britannian puolustusministeriö",
+  "official": true,
+  "published": "2026-11-22",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "UK reaches for stars with NATO space launch plan",
+  "url": "https://www.gov.uk/government/news/uk-reaches-for-stars-with-nato-space-launch-plan",
+  "summary": "UK joins 10 other nations in NATO STARLIFT initiative to create network of flexible satellite launch services.",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "ukmod:d14cc21c28cd1059",
+  "source": "ukmod",
+  "sourceName": "Britannian puolustusministeriö",
+  "official": true,
+  "published": "2026-11-21",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Defence Secretary meets President Zelensky and Minister Khmara in Kyiv as UK deepens industrial support for Ukraine",
+  "url": "https://www.gov.uk/government/news/defence-secretary-meets-president-zelensky-and-minister-khmara-in-kyiv-as-uk-deepens-industrial-support-for-ukraine",
+  "summary": "Defence Secretary meets President Zelenskyy in Kyiv as new agreements strengthen UK industrial support for Ukraine and expand drone production",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": []
+ },
+ {
+  "id": "ukmod:e950217cc75a5a03",
+  "source": "ukmod",
+  "sourceName": "Britannian puolustusministeriö",
+  "official": true,
+  "published": "2026-11-21",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Chief of Defence Intelligence speech at Cambridge Intelligence Seminar: 20 November 2026",
+  "url": "https://www.gov.uk/government/speeches/chief-of-defence-intelligence-speech-at-cambridge-intelligence-seminar-20-november-2026",
+  "summary": "Lt Gen Matthew Jones, Chief of Defence Intelligence speech at Cambridge Intelligence Seminar",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "ukmod:99d3c2676230160f",
+  "source": "ukmod",
+  "sourceName": "Britannian puolustusministeriö",
+  "official": true,
+  "published": "2026-11-20",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Grants up to £45 million boost UK growth as Ministry of Defence funds national munitions production",
+  "url": "https://www.gov.uk/government/news/grants-up-to-45-million-boost-uk-growth-as-ministry-of-defence-funds-national-munitions-production",
+  "summary": "UK-based companies can now apply for MoD grants of up to £45 million to build new munitions factories.",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "ukmod:b30684e6734fdc20",
+  "source": "ukmod",
+  "sourceName": "Britannian puolustusministeriö",
+  "official": true,
+  "published": "2026-11-19",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Graves of missing Lancashire soldiers identified in France and Belgium",
+  "url": "https://www.gov.uk/government/news/graves-of-missing-lancashire-soldiers-identified-in-france-and-belgium",
+  "summary": "The graves of two lost soldiers of World War 1, from Aspull and Eccles, have finally been identified in Belgium and France. Lieutenant Fred Naylor of the Wiltshire Regiment and Company Serjeant Major Herbert Bannister of th…",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "ukmod:dbb64405d8a84e86",
+  "source": "ukmod",
+  "sourceName": "Britannian puolustusministeriö",
+  "official": true,
+  "published": "2026-11-19",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Grave of missing Pembrokeshire soldier identified in Belgium",
+  "url": "https://www.gov.uk/government/news/grave-of-missing-pembrokeshire-soldier-identified-in-belgium",
+  "summary": "Major Francis George Wynne of the Loyal North Lancashire Regiment (attd Wiltshire Regiment), now has a named resting places in Commonwealth War Graves Commission (CWGC) cemetery.",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "ukmod:698b046f6f9ee3b4",
+  "source": "ukmod",
+  "sourceName": "Britannian puolustusministeriö",
+  "official": true,
+  "published": "2026-11-18",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Grave of missing Shropshire soldier identified in France",
+  "url": "https://www.gov.uk/government/news/grave-of-missing-shropshire-soldier-identified-in-france",
+  "summary": "The grave of a lost Bridgnorth soldier of World War 1 has finally been identified in France. Corporal George Lloyd of the King’s Shropshire Light Infantry, now has a named resting place in a Commonwealth War Graves Commissio…",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "npsa:57e8b8863dfa930c",
+  "source": "npsa",
+  "sourceName": "NPSA (Britannia)",
+  "official": true,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "CEOs from sensitive sectors receive briefings on Russia threats",
+  "url": "https://www.gov.uk/government/news/ceos-from-sensitive-sectors-receive-briefings-on-russia-threats",
+  "summary": "Closed-door security briefings by Ministers and UK Intelligence representatives given to critical national infrastructure (CNI) and defence sector CEOs",
+  "categoryHints": [],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "ncscuk:914e107a13d7e4ad",
+  "source": "ncscuk",
+  "sourceName": "NCSC UK",
+  "official": true,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Introducing CORNERSTONE: delivering external services for the NCSC",
+  "url": "https://www.ncsc.gov.uk/blogs/introducing-cornerstone-delivering-external-services-for-the-ncsc",
+  "summary": "The NCSC is seeking industry feedback on a new delivery model for modernising external cyber security services.",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "ncscuk:419ae3acbec37035",
+  "source": "ncscuk",
+  "sourceName": "NCSC UK",
+  "official": true,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Familiar weaknesses, exploited faster: defending against agentic cyber attacks",
+  "url": "https://www.ncsc.gov.uk/blogs/familiar-weaknesses-exploited-faster-defending-against-agentic-cyber-attacks",
+  "summary": "How to protect your organisation from cyber attacks created using ‘agentic offensive frameworks’.",
+  "categoryHints": [
+   "kyber"
+  ],
+  "flags": [
+   "vahva"
+  ]
+ },
+ {
+  "id": "euvsdisinfo:b05fc5b41f525d43",
+  "source": "euvsdisinfo",
+  "sourceName": "EUvsDisinfo",
+  "official": true,
+  "published": "2026-11-20",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "‘Russophobia’: a narrative for every occasion",
+  "url": "https://euvsdisinfo.eu/russophobia-a-narrative-for-every-occasion/",
+  "summary": "The Kremlin uses accusations of 'Russophobia' to dismiss evidence of Russian interference, cast defensive Western measures as aggression and portray nearby countries as irrationally hostile. The narrative is amplified by pro-Kremlin media to obscure Russia’s own actions and deepen divisions. The post ‘Russophobia’: a narrative for every occasion appeared first on EUvsDisinfo .",
+  "categoryHints": [],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "europol:93d354b6bb674be3",
+  "source": "europol",
+  "sourceName": "Europol",
+  "official": true,
+  "published": null,
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Law enforcement follow crypto money trail behind billion-euro illegal streaming industry",
+  "url": "https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-follow-crypto-money-trail-behind-billion-euro-illegal-streaming-industry",
+  "summary": "Police from 11 countries have joined forces to go after the money behind Europe's illegal streaming industry, tracing cryptocurrency payments used to finance criminal networks profiting from digital piracy.During a five-day operation coordinated by Europol in Seville, Spain, from 16 to 20 November 2026, investigators worked with cryptocurrency industry to identify the financial networks behind illegal IPTV services.The operation resulted...",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "europol:ed63e0218a52390e",
+  "source": "europol",
+  "sourceName": "Europol",
+  "official": true,
+  "published": null,
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Over 70 women identified as victims of trafficking network operating across nine European countries",
+  "url": "https://www.europol.europa.eu/media-press/newsroom/news/over-70-women-identified-victims-of-trafficking-network-operating-across-nine-european-countries",
+  "summary": "A criminal network suspected of trafficking women from Romania for sexual exploitation across nine European countries has been targeted in two coordinated law enforcement actions on 5 and 19 November 2026.",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "europol:a0117260f359b524",
+  "source": "europol",
+  "sourceName": "Europol",
+  "official": true,
+  "published": null,
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Law enforcement dismantle cocaine network from Ecuador to Europe",
+  "url": "https://www.europol.europa.eu/media-press/newsroom/news/law-enforcement-dismantle-cocaine-network-ecuador-to-europe",
+  "summary": "An international investigation supported by Europol and Eurojust has dismantled a criminal network suspected of importing cocaine into Europe from Ecuador and other Latin American countries. Investigators link the network to large quantities of seized cocaine, including a recent seizure of over 750 kilos in Antwerp, Belgium.",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "europol:5a1bc89ac07fddbf",
+  "source": "europol",
+  "sourceName": "Europol",
+  "official": true,
+  "published": null,
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "354 dark web vendors and buyers arrested in Europol-coordinated global crackdown",
+  "url": "https://www.europol.europa.eu/media-press/newsroom/news/354-dark-web-vendors-and-buyers-arrested-in-europol-coordinated-global-crackdown",
+  "summary": "Europol, in collaboration with law enforcement agencies from 14 countries across the globe, have successfully identified vendors and buyers from major dark marketplaces as part of Operation TorNado, a coordinated international effort targeting cybercrime, drug trafficking, and firearms offences. The operation, which spanned from May 2025 to October 2026, resulted in 354 arrests and hundreds of house searches worldwide.",
+  "categoryHints": [
+   "sabotaasi"
+  ],
+  "flags": []
+ },
+ {
+  "id": "europol:c0c8620fb2ea9849",
+  "source": "europol",
+  "sourceName": "Europol",
+  "official": true,
+  "published": null,
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "6.4 million victim datasets secured in international operation against malware networks",
+  "url": "https://www.europol.europa.eu/media-press/newsroom/news/64-million-victim-datasets-secured-in-international-operation-against-malware-networks",
+  "summary": "Europol, alongside global partners, has dismantled the criminal infrastructure behind Gootloader, CastleRAT, and StealC malware. In coordinated actions, law enforcement seized 235 servers and 257 domains, severely crippling these malware distribution networks.",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "europol:6b034218cefcd28f",
+  "source": "europol",
+  "sourceName": "Europol",
+  "official": true,
+  "published": null,
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "EU Most Wanted: 19 fugitives wanted for targeting the vulnerable",
+  "url": "https://www.europol.europa.eu/media-press/newsroom/news/eu-most-wanted-19-fugitives-wanted-for-targeting-vulnerable",
+  "summary": "Nineteen fugitives wanted for crimes against children and older people are the focus of a new EU Most Wanted appeal launched on 12 November. Featuring cases from 14 countries, the appeal includes individuals sought for child sexual exploitation and fraud targeting older people.",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "europol:76a925c9e2c429a6",
+  "source": "europol",
+  "sourceName": "Europol",
+  "official": true,
+  "published": null,
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Investment scams with potential victims in at least 50 countries: over 100 servers seized",
+  "url": "https://www.europol.europa.eu/media-press/newsroom/news/investment-scams-potential-victims-in-least-50-countries-over-100-servers-seized",
+  "summary": "Led by the German Itzehoe Public Prosecutor's Office (Staatsanwaltschaft Itzehoe), the operation targeted a company suspected of supplying fraudulent trading websites to criminal groups. The entity is connected to call centre operators who allegedly persuaded victims to hand over their savings. Investigators estimate losses exceeding EUR 4 million.Authorities searched 17 locations and seized servers, other evidence and assets. Seven suspects...",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "europol:a039bb2af2b74c71",
+  "source": "europol",
+  "sourceName": "Europol",
+  "official": true,
+  "published": null,
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Not a game: Europol and partners target terrorist role-playing online",
+  "url": "https://www.europol.europa.eu/media-press/newsroom/news/not-game-europol-and-partners-target-terrorist-role-playing-online",
+  "summary": "Europol’s European Union Internet Referral Unit (EU IRU) coordinated together with Spain a Referral Action Day targeting violent extremist and terrorist live action role-playing (LARPing) in online gaming environments. Specialised units from 16 countries participated in the action.",
+  "categoryHints": [
+   "sabotaasi"
+  ],
+  "flags": [
+   "vahva"
+  ]
+ },
+ {
+  "id": "europol:d403d5506a8d7099",
+  "source": "europol",
+  "sourceName": "Europol",
+  "official": true,
+  "published": null,
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Five TEFAF robbery suspects added to EU Most Wanted",
+  "url": "https://www.europol.europa.eu/media-press/newsroom/news/five-tefaf-robbery-suspects-added-to-eu-most-wanted",
+  "summary": "As of 29 October 2026, five new fugitives, four men and one woman, have been added to the EU Most Wanted list. According to the Limburg Public Prosecutor's Office (Openbaar Ministerie) and the Dutch Police (Politie), all five suspects are involved in the European Fine Art Fair (TEFAF) robbery that took place on 28 June 2022 in Maastricht, the Netherlands.",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "europol:d35e4fb85c4a2836",
+  "source": "europol",
+  "sourceName": "Europol",
+  "official": true,
+  "published": null,
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "27 arrests and 248 potential victims identified in action week against labour exploitation",
+  "url": "https://www.europol.europa.eu/media-press/newsroom/news/27-arrests-and-248-potential-victims-identified-in-action-week-against-labour-exploitation",
+  "summary": "Europol, the European Labour Authority (ELA), and 34 participating countries today announced the results of an action week targeting human trafficking for labour exploitation. The operation, part of an EMPACT action led by Sweden, brought together police, border guards, labour and social security inspectorates, and tax authorities to crack down on exploitative practices in high-risk sectors such as agriculture, construction, cosmetic services, massage parlours, and hospitality.",
+  "categoryHints": [
+   "sabotaasi",
+   "maahantulo"
+  ],
+  "flags": []
+ },
+ {
+  "id": "consilium:852ef809631d66b6",
+  "source": "consilium",
+  "sourceName": "EU:n neuvosto",
+  "official": false,
+  "published": "2026-11-23",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "EU sanctions against terrorism: Council lists the founder of 'The Base'",
+  "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/23/eu-sanctions-against-terrorism-council-lists-the-founder-of-the-base/",
+  "summary": "The Council expands its sanctions list to combat terrorism by designating the founder and leader of the EU-sanctioned organisation 'The Base'.",
+  "categoryHints": [
+   "painostus",
+   "sabotaasi"
+  ],
+  "flags": [
+   "vahva"
+  ]
+ },
+ {
+  "id": "yle-news:fe667c37717f10a1",
+  "source": "yle-news",
+  "sourceName": "Yle News",
+  "official": false,
+  "published": "2026-11-23",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Russia retrieves burning cargo ship from Gulf of Finland after drone strike",
+  "url": "https://yle.fi/a/74-20258435?origin=rss",
+  "summary": "The Sparta II ship was sailing to Russia's Baltic exclave of Kaliningrad when it was struck by a drone, caught fire, and drifted into Finland's territorial waters.",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "yle-news:73844be14fa704e6",
+  "source": "yle-news",
+  "sourceName": "Yle News",
+  "official": false,
+  "published": "2026-11-20",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Russia reprimands Finland's deputy ambassador over entry curbs on athletes",
+  "url": "https://yle.fi/a/74-20258049?origin=rss",
+  "summary": "Finland's foreign ministry noted that \"Russia uses sports as a propaganda tool\" when tightened restrictions were announced last week.",
+  "categoryHints": [
+   "informaatio"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "err:41d9201cfdd5eedd",
+  "source": "err",
+  "sourceName": "ERR News",
+  "official": false,
+  "published": "2026-11-25",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Security expert: Chances of Russia attacking just Estonia minute",
+  "url": "https://news.err.ee/1610205964/security-expert-chances-of-russia-attacking-just-estonia-minute",
+  "summary": "Russia's warning that it is on the brink of open warfare with Estonia is primarily aimed at sowing panic and influencing Estonian policy rather than signaling imminent military action, security expert Ilmar Raag said.",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "err:187e4a603218fd10",
+  "source": "err",
+  "sourceName": "ERR News",
+  "official": false,
+  "published": "2026-11-25",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Russia's threats are a 'helpless outburst of anger,' says Estonian diplomat",
+  "url": "https://news.err.ee/1610205889/russia-s-threats-are-a-helpless-outburst-of-anger-says-estonian-diplomat",
+  "summary": "Former ambassador to NATO Jüri Luik (Isamaa) dismissed threats of \"open war\" from Russia in responce to Estonia's border closure, and said they were a distraction tactic to divert attention from Moscow's attacks on European arms companies.",
+  "categoryHints": [
+   "maahantulo"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "err:6ef3da34ec005900",
+  "source": "err",
+  "sourceName": "ERR News",
+  "official": false,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Estonian PM: Closing rail border crossing with Russia could be next step",
+  "url": "https://news.err.ee/1610205202/estonian-pm-closing-rail-border-crossing-with-russia-could-be-next-step",
+  "summary": "Prime Minister Kristen Michal said Estonia's decision to close its land border with Russia is effectively indefinite and designed to withstand legal challenges. The government has not yet decided whether to close the rail border crossing, but Michal said that option could be considered as a future step.",
+  "categoryHints": [
+   "maahantulo"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "err:70c3bd5505fa0aa6",
+  "source": "err",
+  "sourceName": "ERR News",
+  "official": false,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Estonia backs EU's 22nd Russia sanctions package, fighter visa ban",
+  "url": "https://news.err.ee/1610204860/estonia-backs-eu-s-22nd-russia-sanctions-package-fighter-visa-ban",
+  "summary": "Foreign Minister Margus Tsahkna (Eesti 200) welcomed the European Commission's 22nd Russia sanctions package Monday, which proposes a Schengen visa ban on Russian war veterans.",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "err:a05819d902ceae62",
+  "source": "err",
+  "sourceName": "ERR News",
+  "official": false,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Kremlin again accuses Estonia of letting Ukraine attack via its airspace",
+  "url": "https://news.err.ee/1610204728/kremlin-again-accuses-estonia-of-letting-ukraine-attack-via-its-airspace",
+  "summary": "Russia's Foreign Ministry claimed Monday that Estonia is \"tacitly\" allowing Ukraine to use its airspace to strike targets inside Russia.",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": [
+   "vahva",
+   "venaja"
+  ]
+ },
+ {
+  "id": "err:876978ba6fa533ed",
+  "source": "err",
+  "sourceName": "ERR News",
+  "official": false,
+  "published": "2026-11-23",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Estonia's defense minister: The Gulf of Finland has not become more dangerous",
+  "url": "https://news.err.ee/1610203777/estonia-s-defense-minister-the-gulf-of-finland-has-not-become-more-dangerous",
+  "summary": "Defense Minister Martin Herem said recent drone attacks on Russian ships have not made the Gulf of Finland more dangerous, adding that cleaning up the aftermath of Ukrainian strikes can be seen as part of supporting Ukraine.",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "lsm:7e0c51fdf902b91f",
+  "source": "lsm",
+  "sourceName": "LSM",
+  "official": false,
+  "published": "2026-11-23",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Russian diplomat summoned yet again by Latvia over ongoing aggression",
+  "url": "https://eng.lsm.lv/article/politics/diplomacy/23.11.2026-russian-diplomat-summoned-yet-again-by-latvia-over-ongoing-aggression.a673122/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "summary": "On 23rd November 2026, the Chargé d’Affaires ad interim of the Russian Embassy in Rīga was summoned to the Ministry of Foreign Affairs to lodge a protest with the Russian Federation over the consequences of its war of aggression against Ukraine, as well as violations of the airspace of Member States of the European Union and NATO, according to a release from the Ministry.",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": [
+   "vahva",
+   "venaja"
+  ]
+ },
+ {
+  "id": "lsm:5fee88466818a758",
+  "source": "lsm",
+  "sourceName": "LSM",
+  "official": false,
+  "published": "2026-11-23",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Renewed call for 'blood grain' transit ban in Latvia",
+  "url": "https://eng.lsm.lv/article/economy/business/23.11.2026-renewed-call-for-blood-grain-transit-ban-in-latvia.a672987/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "summary": "On November 7th, protesters in Jēkabpils demanded that the transit of Russian grain via Latvia be stopped within 14 days. Their deadline expired on Saturday, November 21. Referring also to the foiled sabotage attempt against an Estonian drone manufacturer, which is to lead to the closure of the Estonian-Russian border, the organizers are now demanding that Latvia follow suit and that the government should completely close Latvia's border with Russia and stop any transit of goods.",
+  "categoryHints": [
+   "painostus",
+   "sabotaasi",
+   "maahantulo"
+  ],
+  "flags": [
+   "vahva",
+   "venaja"
+  ]
+ },
+ {
+  "id": "lsm:4f8993da23ebadda",
+  "source": "lsm",
+  "sourceName": "LSM",
+  "official": false,
+  "published": "2026-11-20",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Estonian-Russian border closing means overtime for Latvian border guards",
+  "url": "https://eng.lsm.lv/article/economy/transport/20.11.2026-estonian-russian-border-closing-means-overtime-for-latvian-border-guards.a672689/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "summary": "With Estonia closing its land border crossings with Russia, more people are expected to cross the border into Latvia, which would mean overtime for our border guards, Guntis Pujāts, Head of the Border Guard, said in an interview with Latvian Radio on November 20.",
+  "categoryHints": [
+   "maahantulo"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "lrt:8beea46a3e22f1ed",
+  "source": "lrt",
+  "sourceName": "LRT",
+  "official": false,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "ECHR rules Lithuania did not violate human rights by deporting migrants to Belarus",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3124297/echr-rules-lithuania-did-not-violate-human-rights-by-deporting-migrants-to-belarus",
+  "summary": "The European Court of Human Rights (ECHR) has ruled that deporting foreigners to countries that use migration as a political tool does not, in itself, violate the prohibition of torture and inhuman or degrading treatment under the European Convention on Human Rights.",
+  "categoryHints": [
+   "maahantulo"
+  ],
+  "flags": [
+   "valtiot"
+  ]
+ },
+ {
+  "id": "lrt:7c4a0d81364fd764",
+  "source": "lrt",
+  "sourceName": "LRT",
+  "official": false,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Lithuanian presidential aide: Kaliningrad warnings reflect Russian fears, not escalation",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3124146/lithuanian-presidential-aide-kaliningrad-warnings-reflect-russian-fears-not-escalation",
+  "summary": "Recent events in Russia’s Kaliningrad region likely reflect Moscow’s fears of a possible Ukrainian attack on the exclave rather than an attempt to provoke NATO, Lithuanian President Gitanas Nausėda’s chief national security adviser Deividas Matulionis said Tuesday.",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "lrt:015a0ea0b3d9197f",
+  "source": "lrt",
+  "sourceName": "LRT",
+  "official": false,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Lithuanian prepaid SIM cards found in Russian drones used against Ukraine – media",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3124066/lithuanian-prepaid-sim-cards-found-in-russian-drones-used-against-ukraine-media",
+  "summary": "Lithuanian prepaid SIM cards were found in Russian drones used in attacks on Ukraine in 2025, Lithuanian news portal 15min.lt reported Tuesday, citing Ukrainian military intelligence data.",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "lrt:be450ba8de4d077b",
+  "source": "lrt",
+  "sourceName": "LRT",
+  "official": false,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Putin denied a propaganda gift as German tanks reach Lithuania largely unnoticed",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3123304/putin-denied-a-propaganda-gift-as-german-tanks-reach-lithuania-largely-unnoticed",
+  "summary": "German tanks taking part in the German-organised military exercises Grand Eagle 26 and Freedom Shield II in Lithuania have arrived in the country largely unnoticed, sparing a propaganda gift for the Kremlin and keeping tensions down.",
+  "categoryHints": [
+   "informaatio"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "lrt:a05ac731b15df244",
+  "source": "lrt",
+  "sourceName": "LRT",
+  "official": false,
+  "published": "2026-11-23",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Lithuania plans joint investigation with three EU countries into Starlink arson attacks",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3123336/lithuania-plans-joint-investigation-with-three-eu-countries-into-starlink-arson-attacks",
+  "summary": "Lithuania, Poland, Germany, and Bulgaria are planning to set up a joint investigation team to investigate arson attacks targeting Starlink satellite communications infrastructure, Polish radio station RMF24 and Ukrainian news outlet The Kyiv Independent reported on Monday.",
+  "categoryHints": [
+   "sabotaasi"
+  ],
+  "flags": [
+   "vahva"
+  ]
+ },
+ {
+  "id": "lrt:9a9714f42c4af1f4",
+  "source": "lrt",
+  "sourceName": "LRT",
+  "official": false,
+  "published": "2026-11-23",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Lithuanian citizens freed in DR Congo: ‘They were tourists’",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3123094/lithuanian-citizens-freed-in-dr-congo-they-were-tourists",
+  "summary": "Lithuanian citizens suspected of espionage who were released in the Democratic Republic of Congo on Saturday night were tourists and had no drones or weapons, Lithuanian officials said.",
+  "categoryHints": [
+   "painostus",
+   "sabotaasi"
+  ],
+  "flags": [
+   "vahva"
+  ]
+ },
+ {
+  "id": "lrt:6a06e565d8bc4f77",
+  "source": "lrt",
+  "sourceName": "LRT",
+  "official": false,
+  "published": "2026-11-23",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Lithuanian officials deny country’s involvement in alleged Kaliningrad attacks",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3123068/lithuanian-officials-deny-country-s-involvement-in-alleged-kaliningrad-attacks",
+  "summary": "Lithuania has never allowed its airspace to be used for attacks against Russian targets, Foreign Minister Kestutis Budrys said on Saturday, dismissing Russian claims that a drone had flown into the Kaliningrad region from Lithuanian territory as disinformation.",
+  "categoryHints": [
+   "painostus",
+   "informaatio"
+  ],
+  "flags": [
+   "vahva",
+   "venaja"
+  ]
+ },
+ {
+  "id": "lrt:7c697a51ef53b395",
+  "source": "lrt",
+  "sourceName": "LRT",
+  "official": false,
+  "published": "2026-11-23",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "All we could do was drive. Notes on the five years of Sienos Grupė – opinion",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3120348/all-we-could-do-was-drive-notes-on-the-five-years-of-sienos-grupe-opinion",
+  "summary": "Sienos Grupė – or Border Group – was started by a group of volunteers in 2021, at the start of Lithuania’s so called “migrant crisis”. As people on the move started crossing the border from Belarus, the government threw all resources into erecting walls and pushing them back, leaving none for the people very much in need. Sienos Grupė came to fill in the void. Mantautas Šulskus, one of the founders, takes the toll of the group’s five-year-long efforts.",
+  "categoryHints": [
+   "maahantulo"
+  ],
+  "flags": [
+   "valtiot"
+  ]
+ },
+ {
+  "id": "nfp:55d7c19a56d64e2f",
+  "source": "nfp",
+  "sourceName": "Notes from Poland",
+  "official": false,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Poland, Lithuania and Latvia violated rights of migrants sent back to Belarus, finds European court",
+  "url": "https://notesfrompoland.com/2026/11/24/poland-lithuania-and-latvia-violated-rights-of-migrants-sent-back-to-belarus-finds-european-court/",
+  "summary": "However, the ECHR also recognised their right to prevent the entry of migrants who have been \"instrumentalised\" by Belarus.",
+  "categoryHints": [
+   "maahantulo"
+  ],
+  "flags": [
+   "valtiot",
+   "vahva"
+  ]
+ },
+ {
+  "id": "nfp:7079829bcbb593aa",
+  "source": "nfp",
+  "sourceName": "Notes from Poland",
+  "official": false,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "NATO to send surveillance aircraft to Poland after Russian missile strikes",
+  "url": "https://notesfrompoland.com/2026/11/24/nato-to-send-surveillance-aircraft-to-poland-after-russian-missile-strikes/",
+  "summary": "Shortly after the decision was announced, another Russian drone violated Polish airspace.",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": [
+   "vahva",
+   "venaja"
+  ]
+ },
+ {
+  "id": "nfp:0065abc3ef398285",
+  "source": "nfp",
+  "sourceName": "Notes from Poland",
+  "official": false,
+  "published": "2026-11-20",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Poland prevented Russian false-flag operation at border, says advisor to defence minister",
+  "url": "https://notesfrompoland.com/2026/11/20/poland-prevented-russian-false-flag-operation-at-border-says-advisor-to-defence-minister/",
+  "summary": "If it had not been stopped, the incident would have \"ended tragically\", said retired general Mieczysław Bieniek.",
+  "categoryHints": [
+   "maahantulo"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "nfp:0b5fd62cd75b7cb8",
+  "source": "nfp",
+  "sourceName": "Notes from Poland",
+  "official": false,
+  "published": "2026-11-20",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Two Russian missiles and a drone hit Poland",
+  "url": "https://notesfrompoland.com/2026/11/20/unidentified-object-hits-poland-amid-russian-attacks-on-western-ukraine/",
+  "summary": "The incident is \"another instalment in the Russian escalation\", says Prime Minister Donald Tusk.",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "svt:5b867658f8957d53",
+  "source": "svt",
+  "sourceName": "SVT",
+  "official": false,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Sydkorea: Ryska plan orsakade varning",
+  "url": "https://www.svt.se/nyheter/utrikes/sydkorea-nordkorea-tros-ha-krankt-luftrum",
+  "summary": "Sydkoreas militär uppger att flera ryska flygplan tog sig in i Sydkoreas luftförsvars identifikationszon, vilket ledde till en varning till invånare. Uppgifterna kommer sedan landet tidigare uppgav att ett misstänkt nordkoreanskt flygplan tagit sig in i det sydkoreanska luftrummet.",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": [
+   "vahva",
+   "venaja"
+  ]
+ },
+ {
+  "id": "svt:f72ff69f05b6cca6",
+  "source": "svt",
+  "sourceName": "SVT",
+  "official": false,
+  "published": "2026-11-23",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Efterlyst svensk greps vid ryska gränsen",
+  "url": "https://www.svt.se/nyheter/utrikes/efterlyst-svensk-greps-vid-ryska-gransen",
+  "summary": "Den polska polisen har gripit en internationellt efterlyst 28-årig svensk medborgare vid gränsövergången mellan Kaliningrad och Polen, skriver TV4.",
+  "categoryHints": [
+   "maahantulo"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "nrk:8179ba47e1148cb0",
+  "source": "nrk",
+  "sourceName": "NRK",
+  "official": false,
+  "published": "2026-11-21",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "ID-porten hadde problemer etter dataangrep",
+  "url": "https://www.nrk.no/nyheter/id-porten-hadde-problemer-etter-dataangrep-1.18086360",
+  "summary": "Innloggingstjenesten ID-porten hadde lørdag problemer etter å ha blitt rammet av et DDOS-angrep. Klokken 17.15 skriver nyhetsbyrået NTB at innloggingsportalen er oppe og går igjen. Problemene oppsto rundt klokken 13.15, opplyste Digitaliseringsdirektoratet til VG, som skrev om saken først.",
+  "categoryHints": [
+   "kyber"
+  ],
+  "flags": [
+   "vahva"
+  ]
+ },
+ {
+  "id": "tagesschau:9dfa9b2d44f0ddb3",
+  "source": "tagesschau",
+  "sourceName": "Tagesschau",
+  "official": false,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Urteil des EGMR: Pushbacks an Grenze zu Belarus waren teils legal",
+  "url": "https://www.tagesschau.de/ausland/europa/emgr-urteil-pushbacks-100.html",
+  "summary": "Eigentlich dürfen Migranten nicht dahin zurückgeschickt werden, wo ihnen Menschenrechtsverletzungen drohen. Ein Grundsatzurteil ändert das - wenn Migranten als Druckmittel eingesetzt und nicht besonders schutzbedürftig sind.",
+  "categoryHints": [
+   "maahantulo"
+  ],
+  "flags": [
+   "valtiot"
+  ]
+ },
+ {
+  "id": "tagesschau:fd0d0d7e02485077",
+  "source": "tagesschau",
+  "sourceName": "Tagesschau",
+  "official": false,
+  "published": "2026-11-23",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Geheimdienste warnen: Russland soll Atomwaffe im Weltraum vorbereiten",
+  "url": "https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html",
+  "summary": "Westliche Geheimdienste gehen nach Recherchen von WDR, NDR und SZ davon aus, dass Russland noch dieses Jahr einen Satelliten mit einem Atomsprengkopf in den Weltraum bringen will. Die Bundeswehr schlägt intern bereits Alarm.",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "tagesschau:c7977529ae4f48e2",
+  "source": "tagesschau",
+  "sourceName": "Tagesschau",
+  "official": false,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Nvidia-Skandal: US-Regierung setzt Megaspeed auf schwarze Liste",
+  "url": "https://www.tagesschau.de/wirtschaft/unternehmen/megaspeed-us-regierung-sperrliste-100.html",
+  "summary": "Die Firma Megaspeed erlangte innerhalb kurzer Zeit weltweite Aufmerksamkeit. Grund war die Affäre von Nvidia-Chef Huang mit einer früheren Managerin des Unternehmens, die der Spionage verdächtigt wird. Nun landete Megaspeed auf einer US-Sperrliste.",
+  "categoryHints": [
+   "sabotaasi"
+  ],
+  "flags": [
+   "vahva"
+  ]
+ },
+ {
+  "id": "bbc:8aff56f24b66be2f",
+  "source": "bbc",
+  "sourceName": "BBC Europe",
+  "official": false,
+  "published": "2026-11-22",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+  "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+  "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "bbc:d37ad5a142376fe8",
+  "source": "bbc",
+  "sourceName": "BBC Europe",
+  "official": false,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
+  "url": "https://www.bbc.co.uk/news/articles/ckpdw4d0z2dwo?at_medium=RSS&at_campaign=rss",
+  "summary": "An alert issued on Tuesday warns of an increased risk of sabotage attacks such as arson and threats to staff.",
+  "categoryHints": [
+   "painostus",
+   "sabotaasi"
+  ],
+  "flags": [
+   "vahva",
+   "venaja"
+  ]
+ },
+ {
+  "id": "bbc:2b5b5a77d321479f",
+  "source": "bbc",
+  "sourceName": "BBC Europe",
+  "official": false,
+  "published": "2026-11-18",
+  "firstSeen": "2026-11-25T10:06:21+02:00",
+  "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+  "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+  "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": [
+   "venaja"
+  ]
  }
 ]
