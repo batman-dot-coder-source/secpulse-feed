@@ -1,0 +1,7 @@
+# Vain keräimen tiedostot julkaistaan
+*
+!.gitignore
+!README.md
+!status.json
+!inbox/
+!inbox/*.json
