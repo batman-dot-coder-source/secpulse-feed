@@ -1341,5 +1341,208 @@
    "sabotaasi"
   ],
   "flags": []
+ },
+ {
+  "id": "raja:73e5c414d915e9ab",
+  "source": "raja",
+  "sourceName": "Rajavartiolaitos",
+  "official": true,
+  "published": "2026-11-25",
+  "firstSeen": "2026-11-25T17:40:27+02:00",
+  "title": "Rajavartiolaitos valvoo urheilijoiden pääsyä Suomeen",
+  "url": "https://raja.fi/-/rajavartiolaitos-valvoo-urheilijoiden-paasya-suomeen",
+  "summary": "",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "pm:edbef1ace0c467c2",
+  "source": "pm",
+  "sourceName": "Puolustusministeriö",
+  "official": true,
+  "published": "2026-11-25",
+  "firstSeen": "2026-11-25T17:40:27+02:00",
+  "title": "Puolustusministeri Häkkänen: Haminan uuden kasarmin rakentamiseen 23,4 miljoonaa euroa",
+  "url": "https://defmin.fi/-/puolustusministeri-hakkanen-haminan-uuden-kasarmin-rakentamiseen-23-4-miljoonaa-euroa",
+  "summary": "",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "certpl:3658f64ecd4aac21",
+  "source": "certpl",
+  "sourceName": "CERT Polska",
+  "official": true,
+  "published": "2026-11-25",
+  "firstSeen": "2026-11-25T17:40:27+02:00",
+  "title": "Podatności w module PrestaHelp phsuperpack dla Prestashop",
+  "url": "https://cert.pl/posts/2026/11/CVE-2026-114346/",
+  "summary": "CERT Polska otrzymało zgłoszenie dotyczące 2 podatności (CVE-2026-114346 i CVE-2026-114347) znalezionych w module PrestaHelp phsuperpack dla Prestashop.",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "certpl:3b94dbc254c3f72f",
+  "source": "certpl",
+  "sourceName": "CERT Polska",
+  "official": true,
+  "published": "2026-11-25",
+  "firstSeen": "2026-11-25T17:40:27+02:00",
+  "title": "Podatność w oprogramowaniu LiteSpeed Cache Plugin for Prestashop",
+  "url": "https://cert.pl/posts/2026/11/CVE-2026-129968/",
+  "summary": "W oprogramowaniu LiteSpeed Cache Plugin for Prestashop wykryto podatność polegającą na braku weryfikacji przekazanego parametru (CVE-2026-129968).",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "certpl:c1730158a2d3063d",
+  "source": "certpl",
+  "sourceName": "CERT Polska",
+  "official": true,
+  "published": "2026-11-25",
+  "firstSeen": "2026-11-25T17:40:27+02:00",
+  "title": "Podatność w ASSA ABLOY Seawing SC-1000 WebConfig",
+  "url": "https://cert.pl/posts/2026/11/CVE-2026-97180/",
+  "summary": "W ASSA ABLOY Seawing SC-1000 WebConfig została znaleziona podatność umożliwiająca zdalne wstrzyknięcie komend (CVE-2026-97180).",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "yle:c89fc8971d3b6e83",
+  "source": "yle",
+  "sourceName": "Yle",
+  "official": false,
+  "published": "2026-11-25",
+  "firstSeen": "2026-11-25T17:40:27+02:00",
+  "title": "Bloomberg: Puola ehdottaa Natolle Venäjän ohjusten tuhoamista Ukrainan ilmatilassa",
+  "url": "https://yle.fi/a/74-20258997?origin=rss",
+  "summary": "",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": [
+   "vahva",
+   "venaja"
+  ]
+ },
+ {
+  "id": "yle:75364438b9d51ab1",
+  "source": "yle",
+  "sourceName": "Yle",
+  "official": false,
+  "published": "2026-11-25",
+  "firstSeen": "2026-11-25T17:40:27+02:00",
+  "title": "Saksan poliisi esti pakolaismajoitukseen suunnitellun tuhopolttoiskun – kolme teiniä otettiin kiinni",
+  "url": "https://yle.fi/a/74-20258951?origin=rss",
+  "summary": "Kolmen teinipojan epäillään kuuluneen äärioikeistolaiseen Terror 18 -ryhmään.",
+  "categoryHints": [
+   "sabotaasi"
+  ],
+  "flags": [
+   "vahva"
+  ]
+ },
+ {
+  "id": "err:d0918ba06ae5ae0f",
+  "source": "err",
+  "sourceName": "ERR News",
+  "official": false,
+  "published": "2026-11-25",
+  "firstSeen": "2026-11-25T17:40:27+02:00",
+  "title": "Defense minister in parliament: Ukraine not using Estonian airspace to attack Russia",
+  "url": "https://news.err.ee/1610206390/defense-minister-in-parliament-ukraine-not-using-estonian-airspace-to-attack-russia",
+  "summary": "Defense Minister Martin Herem said in Riigikogu that Ukrainian drones are not using Estonian airspace to attack Russia and that Ukraine has never asked Estonia for permission to do so.",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": [
+   "vahva",
+   "venaja"
+  ]
+ },
+ {
+  "id": "err:6f0e5a4cb68cba28",
+  "source": "err",
+  "sourceName": "ERR News",
+  "official": false,
+  "published": "2026-11-25",
+  "firstSeen": "2026-11-25T17:40:27+02:00",
+  "title": "Narva Mayor to Minister: Are border residents being sacrificed for security?",
+  "url": "https://news.err.ee/1610206261/narva-mayor-to-minister-are-border-residents-being-sacrificed-for-security",
+  "summary": "Narva Mayor Jaan Toots (Center) said closing the Russian border punishes Estonia's own people, while Interior Minister Igor Taro (Eest 200) said the threat from Russia warranted the move.",
+  "categoryHints": [
+   "maahantulo"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "err:8649e56c7e963b7f",
+  "source": "err",
+  "sourceName": "ERR News",
+  "official": false,
+  "published": "2026-11-25",
+  "firstSeen": "2026-11-25T17:40:27+02:00",
+  "title": "Argo Ideon: In a troubled world borders are crossed in strange ways",
+  "url": "https://news.err.ee/1610206181/argo-ideon-in-a-troubled-world-borders-are-crossed-in-strange-ways",
+  "summary": "In a normal world, state borders are like the dividing line between Valga and Valka on the Estonia-Latvia border, where you can swing across from the Konnaoja bridge. There is nothing like that on the Estonia-Russia border, nor will there be, writes Argo Ideon.",
+  "categoryHints": [
+   "maahantulo"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "err:b28878e170246b81",
+  "source": "err",
+  "sourceName": "ERR News",
+  "official": false,
+  "published": "2026-11-25",
+  "firstSeen": "2026-11-25T17:40:27+02:00",
+  "title": "Latvian PM: Estonia rushed to close its border with Russia",
+  "url": "https://news.err.ee/1610206156/latvian-pm-estonia-rushed-to-close-its-border-with-russia",
+  "summary": "Latvian Prime Minister Andris Kulbergs says Estonia should have consulted the other two Baltic states before deciding to close its border with Russia.",
+  "categoryHints": [
+   "maahantulo"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "tagesschau:c9a37a51146ad0d6",
+  "source": "tagesschau",
+  "sourceName": "Tagesschau",
+  "official": false,
+  "published": "2026-11-25",
+  "firstSeen": "2026-11-25T17:40:27+02:00",
+  "title": "Was über die rechtsextremistische Gruppe \"Terror 18\" bekannt ist",
+  "url": "https://www.tagesschau.de/inland/terror-18-rechtsextremistische-gruppe-100.html",
+  "summary": "Sie sind fast noch Kinder und planten laut Bundesanwaltschaft schwerste Straftaten, etwa auf eine Flüchtlingsunterkunft. Nun gingen Ermittler gegen mutmaßliche Mitglieder der rechtsextremistischen Gruppe \"Terror 18\" vor. Was ist bekannt? Von Max Bauer.",
+  "categoryHints": [
+   "sabotaasi"
+  ],
+  "flags": [
+   "vahva"
+  ]
+ },
+ {
+  "id": "tagesschau:743bf73865bf3f79",
+  "source": "tagesschau",
+  "sourceName": "Tagesschau",
+  "official": false,
+  "published": "2026-11-25",
+  "firstSeen": "2026-11-25T17:40:27+02:00",
+  "title": "Razzia bei rechtsextremistischer Gruppe \"Terror 18\"",
+  "url": "https://www.tagesschau.de/eilmeldung/razzia-terror-18-100.html",
+  "summary": "Die Bundesanwaltschaft ist in mehreren Bundesländern gegen die rechtsextremistische Gruppe \"Terror 18\" vorgegangen, die schwerste Straftaten geplant haben soll. Drei mutmaßliche Mitglieder wurden festgenommen - sie sind 14 und 15 Jahre alt.",
+  "categoryHints": [
+   "sabotaasi"
+  ],
+  "flags": [
+   "vahva"
+  ]
  }
 ]
