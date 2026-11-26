@@ -118,5 +118,144 @@
   "flags": [
    "vahva"
   ]
+ },
+ {
+  "id": "pm:1332074d687d28c3",
+  "source": "pm",
+  "sourceName": "Puolustusministeriö",
+  "official": true,
+  "published": "2026-11-26",
+  "firstSeen": "2026-11-26T17:40:52+02:00",
+  "title": "Puolustusministeri Häkkänen: Suomi hankkii CV90-taisteluajoneuvoja 2,835 miljardilla",
+  "url": "https://defmin.fi/-/puolustusministeri-hakkanen-suomi-hankkii-cv90-taisteluajoneuvoja-2-835-miljardilla",
+  "summary": "",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "certpl:a3b7df8d6c07fc94",
+  "source": "certpl",
+  "sourceName": "CERT Polska",
+  "official": true,
+  "published": "2026-11-26",
+  "firstSeen": "2026-11-26T17:40:52+02:00",
+  "title": "Podatność w oprogramowaniu Chainlit",
+  "url": "https://cert.pl/posts/2026/11/CVE-2026-110699/",
+  "summary": "W oprogramowaniu Chainlit wykryto możliwość obejścia mechanizmu blokowania przesyłania plików (CVE-2026-110699).",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "certpl:9b6f9a23fdb43822",
+  "source": "certpl",
+  "sourceName": "CERT Polska",
+  "official": true,
+  "published": "2026-11-26",
+  "firstSeen": "2026-11-26T17:40:52+02:00",
+  "title": "Podatności w oprogramowaniu GNU Screen",
+  "url": "https://cert.pl/posts/2026/11/CVE-2026-71409/",
+  "summary": "W oprogramowaniu GNU Screen wykryto 3 podatności różnego typu (od CVE-2026-71409 do CVE-2026-71411)",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "certlv:764ae65a451d6769",
+  "source": "certlv",
+  "sourceName": "CERT.LV",
+  "official": true,
+  "published": "2026-11-26",
+  "firstSeen": "2026-11-26T17:40:52+02:00",
+  "title": "CERT.LV activity review Q3 2026",
+  "url": "https://cert.lv/en/2026/11/cert-lv-activity-review-q3-2026",
+  "summary": "In Q3 2026, the intensity of cyber threats and the impact of incidents in Latvian cyberspace increased. Attackers increasingly exploited system vulnerabilities, compromised digital identities, and caused data leaks.",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "yle:d6cfe123b9b6d8e8",
+  "source": "yle",
+  "sourceName": "Yle",
+  "official": false,
+  "published": "2026-11-26",
+  "firstSeen": "2026-11-26T17:40:52+02:00",
+  "title": "Venäjän ilmavoimien varakomentaja pidätetty epäiltynä korruptiosta",
+  "url": "https://yle.fi/a/74-20259208?origin=rss",
+  "summary": "",
+  "categoryHints": [
+   "sabotaasi"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "lsm:a25b9d18e7d8488c",
+  "source": "lsm",
+  "sourceName": "LSM",
+  "official": false,
+  "published": "2026-11-26",
+  "firstSeen": "2026-11-26T17:40:52+02:00",
+  "title": "ECHR finds fault with treatment of some border crossers from Belarus",
+  "url": "https://eng.lsm.lv/article/society/crime/26.11.2026-echr-finds-fault-with-treatment-of-some-border-crossers-from-belarus.a673608/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "summary": "A case involving Latvia's treatment of people attempting to cross into its territory from Belarus has reached a conclusion at the European Court of Human Rights.",
+  "categoryHints": [
+   "maahantulo"
+  ],
+  "flags": [
+   "valtiot"
+  ]
+ },
+ {
+  "id": "tagesschau:6552609ac998bfd2",
+  "source": "tagesschau",
+  "sourceName": "Tagesschau",
+  "official": false,
+  "published": "2026-11-26",
+  "firstSeen": "2026-11-26T17:40:52+02:00",
+  "title": "Mutmaßliche Mitglieder einer pro-iranischen Terrorgruppe festgenommen - Holger Schmidt, SWR",
+  "url": "https://www.tagesschau.de/video/video-1690336.html",
+  "summary": "Mutmaßliche Mitglieder einer pro-iranischen Terrorgruppe festgenommen - Holger Schmidt, SWR",
+  "categoryHints": [
+   "sabotaasi"
+  ],
+  "flags": [
+   "valtiot",
+   "vahva"
+  ]
+ },
+ {
+  "id": "tagesschau:88b121be62bb482c",
+  "source": "tagesschau",
+  "sourceName": "Tagesschau",
+  "official": false,
+  "published": "2026-11-26",
+  "firstSeen": "2026-11-26T17:40:52+02:00",
+  "title": "Holger Schmidt, SWR, zur Festnahme von mutmaßlichen Mitgliedern einer pro-iranischen Terrorgruppe",
+  "url": "https://www.tagesschau.de/video/video-1690374.html",
+  "summary": "Holger Schmidt, SWR, zur Festnahme von mutmaßlichen Mitgliedern einer pro-iranischen Terrorgruppe",
+  "categoryHints": [
+   "sabotaasi"
+  ],
+  "flags": [
+   "valtiot",
+   "vahva"
+  ]
+ },
+ {
+  "id": "tagesschau:ce9d1f958876394c",
+  "source": "tagesschau",
+  "sourceName": "Tagesschau",
+  "official": false,
+  "published": "2026-11-26",
+  "firstSeen": "2026-11-26T17:40:52+02:00",
+  "title": "Krieg gegen die Ukraine: Angriffe auf Kiew - Tote in Saporischschja",
+  "url": "https://www.tagesschau.de/ausland/europa/tote-nach-russischen-angriffen-ukraine-100.html",
+  "summary": "Russland hat die Ukraine wieder massiv angegriffen. Auch bei einem ukrainischen Drohnenangriff im russisch besetzten Teil von Saporischschja gab es Tote. Beide Seiten tauschten die Leichen gefallener Soldaten aus.",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": [
+   "venaja"
+  ]
  }
 ]
