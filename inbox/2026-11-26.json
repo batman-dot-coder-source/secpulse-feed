@@ -257,5 +257,58 @@
   "flags": [
    "venaja"
   ]
+ },
+ {
+  "id": "tagesschau:420c49916a9cc4ba",
+  "source": "tagesschau",
+  "sourceName": "Tagesschau",
+  "official": false,
+  "published": "2026-11-26",
+  "firstSeen": "2026-11-26T23:41:52+02:00",
+  "title": "tagesschau 20:00 Uhr",
+  "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1690642.html",
+  "summary": "Einigung im Tarifstreit der Metall- und Elektroindustrie, Staats- und Regierungschefs der 27 EU-Länder beraten bei Sondergipfel über EU-Haushalt, Pablo Hernández de Cos soll neuer Präsident der Europäischen Zentralbank werden, AfD-Richtungsstreit über Migration, Zwei Iraker nach Razzia wegen Terrorverdacht festgenommen, Opfer sexualisierter Gewalt erhält 550.000 Euro vom Erzbistum Köln, FC-Bayern-Kapitän Joshua Kimmich verteidigt Jamal Musiala in Diskussion um Leistungsminderung aufgrund neurol…",
+  "categoryHints": [
+   "sabotaasi",
+   "maahantulo"
+  ],
+  "flags": [
+   "vahva"
+  ]
+ },
+ {
+  "id": "tagesschau:df7e98d945c4c1e8",
+  "source": "tagesschau",
+  "sourceName": "Tagesschau",
+  "official": false,
+  "published": "2026-11-26",
+  "firstSeen": "2026-11-26T23:41:52+02:00",
+  "title": "Zwei Personen in Untersuchungshaft wegen der mutmaßlichen Mitgliedschaft in pro-iranischer Terrorgruppe",
+  "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1690632.html",
+  "summary": "Zwei Personen in Untersuchungshaft wegen der mutmaßlichen Mitgliedschaft in pro-iranischer Terrorgruppe",
+  "categoryHints": [
+   "sabotaasi"
+  ],
+  "flags": [
+   "valtiot",
+   "vahva"
+  ]
+ },
+ {
+  "id": "tagesschau:8290498887321399",
+  "source": "tagesschau",
+  "sourceName": "Tagesschau",
+  "official": false,
+  "published": "2026-11-26",
+  "firstSeen": "2026-11-26T23:41:52+02:00",
+  "title": "Rheinmetall-Arbeiter bei Angriff in Kuwait getötet",
+  "url": "https://www.tagesschau.de/ausland/asien/kuwait-tote-angriff-kuwait-100.html",
+  "summary": "In Kuwait sind bei einem Drohnenangriff zwei Italiener getötet worden, die bei dem deutschen Rüstungskonzern Rheinmetall beschäftigt waren. Italien weist Iran die Verantwortung zu, doch Teheran dementiert den Angriff.",
+  "categoryHints": [
+   "painostus"
+  ],
+  "flags": [
+   "valtiot"
+  ]
  }
 ]
