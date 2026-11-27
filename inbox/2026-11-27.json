@@ -15,5 +15,63 @@
   "flags": [
    "vahva"
   ]
+ },
+ {
+  "id": "fm:8f30b330786a0dd1",
+  "source": "fm",
+  "sourceName": "Försvarsmakten",
+  "official": true,
+  "published": "2026-11-27",
+  "firstSeen": "2026-11-27T11:41:52+02:00",
+  "title": "Nordisk förstärkning på årets Julgransflygningar",
+  "url": "https://www.mynewsdesk.com/se/forsvarsmakten/pressreleases/nordisk-foerstaerkning-paa-aarets-julgransflygningar-3484266",
+  "summary": "",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "ncsc:bfa853c7fd6364ca",
+  "source": "ncsc",
+  "sourceName": "Kyberturvallisuuskeskus",
+  "official": true,
+  "published": "2026-11-27",
+  "firstSeen": "2026-11-27T11:41:52+02:00",
+  "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 48/2026",
+  "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-482026?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
+  "summary": "M365-tunnusten tietomurrot ovat lisääntyneet merkittävästi. Tietomurtoihin käytetään huijausviestejä, jotka johtavat laitekoodikalasteluun. Huijausketju voi alkaa viattoman näköisellä tarjouspyynnöllä. Tällä viikolla kerromme lisäksi älylaitteiden turvallisesta hankinnasta, reitittimien haavoittuvuudesta ja maanantaina järjestetystä arjen kyberturvallisuuden yleisötilaisuudesta.",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "certpl:89700216f30c07cb",
+  "source": "certpl",
+  "sourceName": "CERT Polska",
+  "official": true,
+  "published": "2026-11-26",
+  "firstSeen": "2026-11-27T11:41:52+02:00",
+  "title": "Bezpieczne zakupy online. Publikujemy praktyczny poradnik",
+  "url": "https://cert.pl/posts/2026/11/bezpieczne-zakupy-online/",
+  "summary": "Black Friday, Cyber Monday i okres przedświątecznych zakupów to dla cyberprzestępców sezon wzmożonej aktywności. Przygotowaliśmy krótki poradnik, który w prosty sposób przedstawia najważniejsze zasady bezpiecznych zakupów w sieci, o których warto pamiętać przez cały rok.",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "lrt:54f5b387f8d6d6ec",
+  "source": "lrt",
+  "sourceName": "LRT",
+  "official": false,
+  "published": "2026-11-27",
+  "firstSeen": "2026-11-27T11:41:52+02:00",
+  "title": "Latvia, Estonia issue drone warnings overnight amid reported attacks near St Petersburg",
+  "url": "https://www.lrt.lt/en/news-in-english/19/3127097/latvia-estonia-issue-drone-warnings-overnight-amid-reported-attacks-near-st-petersburg",
+  "summary": "Latvia scrambled NATO fighter jets and deployed an interceptor drone after an unidentified unmanned aircraft briefly entered its airspace near the eastern border with Russia overnight, while Estonia issued a warning about a possible aerial threat early Friday.",
+  "categoryHints": [
+   "painostus",
+   "maahantulo"
+  ],
+  "flags": [
+   "vahva",
+   "venaja"
+  ]
  }
 ]
