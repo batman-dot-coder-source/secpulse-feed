@@ -73,5 +73,190 @@
    "vahva",
    "venaja"
   ]
+ },
+ {
+  "id": "pm:7ac21e566ea278e7",
+  "source": "pm",
+  "sourceName": "Puolustusministeriö",
+  "official": true,
+  "published": "2026-11-27",
+  "firstSeen": "2026-11-27T17:41:52+02:00",
+  "title": "Muutoksia kenraalikunnassa",
+  "url": "https://defmin.fi/-/muutoksia-kenraalikunnassa-5",
+  "summary": "",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "certse:b17c6018c1c03294",
+  "source": "certse",
+  "sourceName": "CERT-SE",
+  "official": true,
+  "published": "2026-11-24",
+  "firstSeen": "2026-11-27T17:41:52+02:00",
+  "title": "NCSC – CERT-SE veckobrev v.48",
+  "url": "https://www.cert.se/2026/11/ncsc-cert-se-veckobrev-v48.html",
+  "summary": "",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "certpl:38d640b14c653599",
+  "source": "certpl",
+  "sourceName": "CERT Polska",
+  "official": true,
+  "published": "2026-11-27",
+  "firstSeen": "2026-11-27T17:41:52+02:00",
+  "title": "Podatność w oprogramowaniu GNU m4",
+  "url": "https://cert.pl/posts/2026/11/CVE-2026-107189/",
+  "summary": "W oprogramowaniu GNU m4 wykryto podatność typu Integer Overflow (CVE-2026-107189).",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "certpl:881b0d8061df834d",
+  "source": "certpl",
+  "sourceName": "CERT Polska",
+  "official": true,
+  "published": "2026-11-27",
+  "firstSeen": "2026-11-27T17:41:52+02:00",
+  "title": "Podatność w oprogramowaniu SMSEagle RCDevs OpenOTP SMS integration connector",
+  "url": "https://cert.pl/posts/2026/11/CVE-2026-127118/",
+  "summary": "W oprogramowaniu SMSEagle RCDevs OpenOTP SMS integration connector wykryto podatność polegającą na braku weryfikacji certyfikatu (CVE-2026-127118).",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "ukmod:96d701f60d4b84e8",
+  "source": "ukmod",
+  "sourceName": "Britannian puolustusministeriö",
+  "official": true,
+  "published": "2026-11-27",
+  "firstSeen": "2026-11-27T17:41:52+02:00",
+  "title": "MoD launches new website to help small businesses access Defence & industry testing ranges for innovative new kit",
+  "url": "https://www.gov.uk/government/news/mod-launches-new-website-to-help-small-businesses-access-defence-industry-testing-ranges-for-innovative-new-kit",
+  "summary": "MOD launches Test and Evaluation Marketplace, a single online portal to help businesses test their tech faster.",
+  "categoryHints": [],
+  "flags": []
+ },
+ {
+  "id": "yle:3a916c1fc528fcc9",
+  "source": "yle",
+  "sourceName": "Yle",
+  "official": false,
+  "published": "2026-11-27",
+  "firstSeen": "2026-11-27T17:41:52+02:00",
+  "title": "Kroatialaisoikeus: Nord Stream -kaasuputkien sabotaasista epäiltyä ei luovuteta Saksaan",
+  "url": "https://yle.fi/a/74-20259477?origin=rss",
+  "summary": "Kroatialainen tuomioistuin hyväksyi sukeltajan luovuttamisen Saksaan syyskuussa.",
+  "categoryHints": [
+   "sabotaasi"
+  ],
+  "flags": [
+   "vahva"
+  ]
+ },
+ {
+  "id": "yle-news:2bc267641609454f",
+  "source": "yle-news",
+  "sourceName": "Yle News",
+  "official": false,
+  "published": "2026-11-27",
+  "firstSeen": "2026-11-27T17:41:52+02:00",
+  "title": "\"A kind of Tripadvisor\" — Russian deserters film their illegal escape into Finland",
+  "url": "https://yle.fi/a/74-20259406?origin=rss",
+  "summary": "'How-to' videos of illegal crossings a growing trend, says the Finnish Border Guard.",
+  "categoryHints": [
+   "maahantulo"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "err:6d9c386c29a86e46",
+  "source": "err",
+  "sourceName": "ERR News",
+  "official": false,
+  "published": "2026-11-27",
+  "firstSeen": "2026-11-27T17:41:52+02:00",
+  "title": "Estonia's defense tech sector accelerates innovation amid war in Ukraine",
+  "url": "https://news.err.ee/1610208820/estonia-s-defense-tech-sector-accelerates-innovation-amid-war-in-ukraine",
+  "summary": "Two reported sabotage attacks on Estonian defense firms in the space of six months underscore how Russia's war in Ukraine has spurred rapid local innovation.",
+  "categoryHints": [
+   "sabotaasi"
+  ],
+  "flags": [
+   "vahva",
+   "venaja"
+  ]
+ },
+ {
+  "id": "err:f68ee8d9e63d21fe",
+  "source": "err",
+  "sourceName": "ERR News",
+  "official": false,
+  "published": "2026-11-27",
+  "firstSeen": "2026-11-27T17:41:52+02:00",
+  "title": "EDF intel chief: Russia's response to border closure more threats",
+  "url": "https://news.err.ee/1610209048/edf-intel-chief-russia-s-response-to-border-closure-more-threats",
+  "summary": "Russia continued its information warfare and pressure on European countries this week, while Ukrainian forces mounted successful counterattacks and Russian losses remained extremely high, said Col. Ants Kiviselg.",
+  "categoryHints": [
+   "maahantulo"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "lsm:b8d7dfce0e279093",
+  "source": "lsm",
+  "sourceName": "LSM",
+  "official": false,
+  "published": "2026-11-27",
+  "firstSeen": "2026-11-27T17:41:52+02:00",
+  "title": "Estonian border closure could mean lines of lorries on Latvia-Russia border",
+  "url": "https://eng.lsm.lv/article/economy/transport/27.11.2026-estonian-border-closure-could-mean-lines-of-lorries-on-latvia-russia-border.a673765/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+  "summary": "Usually, as Christmas and New Year approach, long queues of lorries form at the Latvian-Russian border checkpoints; however, following the introduction of the electronic registration system last autumn, the situation has changed dramatically. What is the situation at the Terehova border checkpoint, particularly in light of Estonia’s decision to close its border with Russia? LSM's Latgale editorial ventured to find out.",
+  "categoryHints": [
+   "maahantulo"
+  ],
+  "flags": [
+   "venaja"
+  ]
+ },
+ {
+  "id": "tagesschau:4df3ebbb9047dc96",
+  "source": "tagesschau",
+  "sourceName": "Tagesschau",
+  "official": false,
+  "published": "2026-11-27",
+  "firstSeen": "2026-11-27T17:41:52+02:00",
+  "title": "Spionageverdacht: Ex-BND-Chef Hanning bleibt in Untersuchungshaft",
+  "url": "https://www.tagesschau.de/inland/bnd-hanning-untersuchungshaft-spionageverdacht-100.html",
+  "summary": "Die Festnahme des Ex-BND-Chefs Hanning hatte im Oktober international Schlagzeilen produziert. Nun steht fest, dass der 80-Jährige vorerst in Haft bleibt. Gegen Hanning wird unter anderem wegen Spionageverdachts ermittelt.",
+  "categoryHints": [
+   "sabotaasi"
+  ],
+  "flags": [
+   "vahva"
+  ]
+ },
+ {
+  "id": "tagesschau:1e3e7e0b48303c62",
+  "source": "tagesschau",
+  "sourceName": "Tagesschau",
+  "official": false,
+  "published": "2026-11-27",
+  "firstSeen": "2026-11-27T17:41:52+02:00",
+  "title": "Westjordanland: Israelische Politiker sprechen von \"jüdischem Terror\"",
+  "url": "https://www.tagesschau.de/ausland/asien/westjordanland-gewalt-100.html",
+  "summary": "Die Gewalt radikaler Siedler gegen Palästinenser im Westjordanland hat massiv zugenommen. In Israel ist der Begriff \"jüdischer Terror\" kein Tabu mehr. Doch in der Regierung tobt ein Richtungsstreit. Von Julio Segador.",
+  "categoryHints": [
+   "sabotaasi"
+  ],
+  "flags": [
+   "vahva"
+  ]
  }
 ]
